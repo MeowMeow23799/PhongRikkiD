@@ -1,0 +1,10 @@
+public class Numeric {
+		x=10/3;
+		double y;
+		System.out.println(x);
+		System.out.println(y);
+		y=10;
+		y=y/3;//khi so chia la double
+		System.out.println(y);
+	}
+}
